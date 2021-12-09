@@ -10,7 +10,7 @@ Perform basic calculation and show equation and result
 
 ## Installation
 
-1. `git clone https://github.com/amrutabb/drive-box.git`
+1. `git clone https://github.com/amrutabb/calculator-app.git`
 
 2. `cd calculator-app`
 
