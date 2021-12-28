@@ -17,3 +17,7 @@ Perform basic calculation and show equation and result
 3. `npm install`
 
 4. `npm start`
+
+# Reference and Credits
+WebDevSimplified
+sitepoint 
